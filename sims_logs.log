@@ -1,0 +1,9 @@
+We have next logging message:2026-11-13 21:41:56,147:DEBUG - Debug Info
+We have next logging message:2026-11-13 21:41:56,147:INFO - Character woke up
+We have next logging message:2026-11-13 21:41:56,147:INFO - Character has good mood today
+We have next logging message:2026-11-13 21:41:56,147:INFO - Character go for a walk
+We have next logging message:2026-11-13 21:41:56,147:INFO - Character find the secret object!
+We have next logging message:2026-11-13 21:41:56,147:ERROR - Game Error: division by zero
+We have next logging message:2026-11-13 21:41:56,147:WARNING - Warning character energy is low!!!
+We have next logging message:2026-11-13 21:41:56,147:ERROR - Error message
+We have next logging message:2026-11-13 21:41:56,147:CRITICAL - Critical message

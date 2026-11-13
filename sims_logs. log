@@ -1,0 +1,8 @@
+We have next logging message:2026-11-13 21:35:16,864:DEBUG - Debug Info
+We have next logging message:2026-11-13 21:35:16,864:INFO - Character woke up
+We have next logging message:2026-11-13 21:35:16,865:INFO - Character has good mood today
+We have next logging message:2026-11-13 21:35:16,865:INFO - Character go for a walk
+We have next logging message:2026-11-13 21:35:16,865:INFO - Character find the secret object!
+We have next logging message:2026-11-13 21:35:16,865:WARNING - Warning character energy is low!!!
+We have next logging message:2026-11-13 21:35:16,865:ERROR - Error message
+We have next logging message:2026-11-13 21:35:16,865:CRITICAL - Critical message
